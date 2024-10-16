@@ -13,6 +13,7 @@ public class ConnectionController
 	public String makeConnection()
 	{
 		System.out.println("dkjbffd");
+		System.out.println("Example 1");
 		return "Connection is established";
 		
 		
